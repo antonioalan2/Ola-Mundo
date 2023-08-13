@@ -6,3 +6,5 @@
  Essa linha eu adicionei diretamente no site!
  
  Aulas de **Git e GitHub** disponível gratuitamente no canal do *YouTube*.
+
+ melhorei meu perfil do Github 
