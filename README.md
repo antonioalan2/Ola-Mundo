@@ -9,5 +9,6 @@
 
  melhorei meu perfil do Github 
 
- nome|idade|
+ nome|idade
+ --|--
  Antonio|24
